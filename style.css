@@ -1,5 +1,5 @@
 div {
-position: absolute;
+position: absolute cinema;
 top: 0;
 left: 0;
 width: 100%;
@@ -33,21 +33,21 @@ body {
 .title {
   position: absolute;
   color: white;
-  top: 500;
-  left: 200;
+  top: 500px;
+  left: 200px;
 }
 
 .description {
   position: absolute;
   color: gray;
-  top: 555;
-  left: 200;
+  top: 555px;
+  left: 200px;
 }
 
 .invitemain {
   position: absolute;
-  left: 215;
-  top: 650;
+  left: 215px;
+  top: 650px;
   border: 2px solid white;
   background-color: white;
   border-radius: 2px;
@@ -56,8 +56,8 @@ body {
 
 .joinmain {
   position: absolute;
-  left: 215;
-  top: 725;
+  left: 215px;
+  top: 725px;
   border: 2px solid white;
   background-color: white;
   border-radius: 2px;
