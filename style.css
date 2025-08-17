@@ -15,6 +15,17 @@ z-index: 1000;
 
 body {
   background-color: darkgray;
+  font-family: Arial;
 }
 
+.toptitle {
+  color: white;
+}
 
+.topinvite {
+  position: absolute;
+  right: 0;
+  border: 2px solid pink;
+  background-color: pink;
+  border-radius: 2px;
+}
