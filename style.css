@@ -33,6 +33,48 @@ body {
 .title {
   position: absolute;
   color: white;
-  top: 500px;
-  left: 200px;
+  top: 500;
+  left: 200;
 }
+
+.description {
+  position: absolute;
+  color: gray;
+  top: 555;
+  left: 200;
+}
+
+.invitemain {
+  position: absolute;
+  left: 215;
+  top: 650;
+  border: 2px solid white;
+  background-color: white;
+  border-radius: 2px;
+  color: white;
+}
+
+.joinmain {
+  position: absolute;
+  left: 215;
+  top: 725;
+  border: 2px solid white;
+  background-color: white;
+  border-radius: 2px;
+  color: white;
+}
+
+.tos {
+    position: absolute;
+    bottom: 200px;
+    left: 20px;
+    color: gray;
+  }
+
+.privacypolicy {
+  position: absolute;
+  bottom: 150px;
+  left: 20px;
+  color: gray;
+
+
