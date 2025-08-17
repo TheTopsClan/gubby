@@ -59,7 +59,7 @@ body {
 
 /* Buttons stacked vertically */
 .invitemain, .joinmain {
-  display: block; /* stack vertically */
+  display: block; /* ensures each button is on its own line */
   margin-left: 200px;
   margin-top: 20px;
   border: 2px solid white;
