@@ -45,16 +45,15 @@ body {
 
 /* Main Content */
 .title {
-  margin-top: 450px; /* more space below top bar */
+  margin-top: 200px; /* space below top bar */
   margin-left: 200px;
   font-size: 3rem;
   color: white;
 }
 
 .description {
-  position: absolute;
-  margin-left: 300px;
-  margin-top: 475px;
+  margin-left: 200px;  /* line up with title */
+  margin-top: 15px;    /* small gap under title */
   font-size: 1.2rem;
   color: #cccccc;
 }
