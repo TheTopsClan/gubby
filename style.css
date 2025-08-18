@@ -44,19 +44,19 @@ body {
 }
 
 .title {
-  margin-top: 200px; /* push down from navbar */
-  margin-left: 200px; 
+  margin-top: 250px; /* push down from the top bar */
+  margin-left: 200px; /* align to the left */
   font-size: 3rem;
   color: white;
 }
 
 .description {
-  position: relative; /* reset so it's not absolute anymore */
-  margin-left: 200px; /* align with title */
-  margin-top: 20px;   /* space under title */
+  margin-top: 20px;   /* space below title */
+  margin-left: 200px; /* same left offset as title */
   font-size: 1.2rem;
   color: #cccccc;
 }
+
 
 
 
