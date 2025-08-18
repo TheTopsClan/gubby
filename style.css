@@ -45,7 +45,7 @@ body {
 
 /* Main Content */
 .title {
-  margin-top: 300px; /* more space below top bar */
+  margin-top: 450px; /* more space below top bar */
   margin-left: 200px;
   font-size: 3rem;
   color: white;
@@ -53,8 +53,8 @@ body {
 
 .description {
   position: absolute;
-  margin-left: 325px;
-  margin-top: 15px;
+  margin-left: 300px;
+  margin-top: 475px;
   font-size: 1.2rem;
   color: #cccccc;
 }
