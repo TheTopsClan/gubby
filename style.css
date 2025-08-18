@@ -44,14 +44,14 @@ body {
 
 /* Main Content */
 .title {
-  margin-top: 150px; /* more space below top bar */
+  margin-top: 300px; /* more space below top bar */
   margin-left: 200px;
   font-size: 3rem;
   color: white;
 }
 
 .description {
-  margin-left: 200px;
+  margin-left: 325px;
   margin-top: 15px;
   font-size: 1.2rem;
   color: #cccccc;
