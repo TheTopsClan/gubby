@@ -43,20 +43,20 @@ body {
   text-decoration: none;
 }
 
-/* Main Content */
 .title {
-  margin-top: 200px; /* space below top bar */
-  margin-left: 200px;
+  margin-top: 200px; /* move it down from the top bar */
+  margin-left: 200px; /* left alignment */
   font-size: 3rem;
   color: white;
 }
 
 .description {
-  margin-left: 200px;  /* line up with title */
-  margin-top: 15px;    /* small gap under title */
+  margin-left: 200px; /* same left offset as the title */
+  margin-top: 15px;   /* sits just under the title */
   font-size: 1.2rem;
   color: #cccccc;
 }
+
 
 /* Buttons stacked vertically */
 .invitemain, .joinmain {
