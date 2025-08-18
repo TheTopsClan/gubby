@@ -44,18 +44,20 @@ body {
 }
 
 .title {
-  margin-top: 200px; /* move it down from the top bar */
-  margin-left: 200px; /* left alignment */
+  margin-top: 200px; /* push down from navbar */
+  margin-left: 200px; 
   font-size: 3rem;
   color: white;
 }
 
 .description {
-  margin-left: 200px; /* same left offset as the title */
-  margin-top: 15px;   /* sits just under the title */
+  position: relative; /* reset so it's not absolute anymore */
+  margin-left: 200px; /* align with title */
+  margin-top: 20px;   /* space under title */
   font-size: 1.2rem;
   color: #cccccc;
 }
+
 
 
 /* Buttons stacked vertically */
